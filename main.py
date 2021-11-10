@@ -1,2 +1,1 @@
-while True:
-    continue
+raise Exception("hello")
