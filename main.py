@@ -1,1 +1,1 @@
-raise Exception("hello")
+print("hello world")
