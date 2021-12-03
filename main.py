@@ -1,1 +1,1 @@
-print("hello world")
+from redis import Redis
